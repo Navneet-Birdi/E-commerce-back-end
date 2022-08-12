@@ -1,3 +1,4 @@
+
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
 ## User Story
@@ -16,4 +17,4 @@ So in terminal in VS code when user enter database name, MySQL password and user
 
 After that when user will open API GET routes in INsomnia Core for categories, products or tags and then each of these routes will be displayed in formatted JSON and user an create, update and delete data in database acoordingly.
 
-
+Video: https://user-images.githubusercontent.com/103732777/184309112-37a0ebeb-4f71-4d58-8261-493c5a7691de.mp4
